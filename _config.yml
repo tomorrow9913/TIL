@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko_KR.UTF-8"
-title                    : "Back-End Dev 김진섭"
+title                    : "Dev Student 정민규"
 title_separator          : "-"
 subtitle                 : "TIL(Today I Learned) 하루동안 배운내용 정리" # site tagline that appears below site title in masthead
-name                     : "김진섭"
-description              : "지식을 공유하며 함께 성장하는 개발자의 TIL"
-url                      : "https://kim-jin-seop.github.io" # the base hostname & protocol for your site e.g.
+name                     : "정민규"
+description              : ""
+url                      : "tomorrow9913.woobi.co.kr" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : kim-jin-seop/ # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : tomorrow9913/ # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/img/teaser.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/img/logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" #, "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "kim-jin-seop" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "tomorrow9913" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -107,18 +107,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kim Jin Seop"
+  name             : "Jeong MinGyu"
   avatar           : /assets/img/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "지식을 공유하며 함께 성장하는 개발자"
   location         : "South Korea"
-  email            : tjq2702@naver.com
+  email            : tomorrow9913@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: tjq2702@naver.com
+      #url: djflsdlwjd@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://cnu-jinseop.tistory.com"
+      url: "tomorrow99@woobi.co.kr"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
