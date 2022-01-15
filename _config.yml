@@ -115,22 +115,22 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: djflsdlwjd@naver.com
+      url: tomorrow9913@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "tomorrow99@woobi.co.kr"
+      url: "tomorrow99.woobi.co.kr"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/JinSeopDev"
+      url: https://www.facebook.com/profile.php?id=100027035684775
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/kim-jin-seop
+      url: https://github.com/tomorrow9913
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dear_seop/"
+      url: "https://www.instagram.com/min_queue_/"
 
 # Site Footer
 footer:
@@ -140,10 +140,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/JinSeopDev/
+      url: https://www.facebook.com/profile.php?id=100027035684775
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/kim-jin-seop
+      url: https://github.com/tomorrow9913
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -152,7 +152,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dear_seop/"
+      url: "https://www.instagram.com/min_queue_/"
 
 
 # Reading Files
